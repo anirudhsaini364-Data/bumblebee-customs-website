@@ -38,7 +38,12 @@ const Header = () => {
         <div className="container">
           <div className="header-content">
             <Link to="/" className="logo">
-              <div className="logo-icon">🐝</div>
+             <img
+  src="/2025-09-25.webp"
+  alt="Bumblebee Customs Logo"
+  className="logo-icon"
+/>
+
               <div className="logo-text">
                 <span className="logo-title">Bumblebee Customs</span>
                 <span className="logo-subtitle">Auto Restoration & Customization</span>
